@@ -1,0 +1,13 @@
+.color-form {
+  padding: 20px;
+  text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+form > input {
+  margin-right: 10px;
+  margin-left: 2px;
+}
